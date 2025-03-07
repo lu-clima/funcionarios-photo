@@ -1,0 +1,23 @@
+{
+  "name": "funcionarios-photo",
+  "version": "1.0.0",
+  "description": "Projeco para usar firebase storage para armazenar fotos de funcionarios da luclima",
+  "keywords": [
+    "photo"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "funcionario-ip"
+  },
+  "license": "ISC",
+  "author": "fevunge",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run dev"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "pnpm": "^10.6.1"
+  }
+}
